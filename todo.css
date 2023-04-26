@@ -1,0 +1,14 @@
+#taskList{
+background-color: grey;
+box-shadow: 3px;
+}
+#textare{
+    
+    min-height: 100px;
+    max-height: max-content;
+    border:0cm;
+    width: 100%;
+}
+/* #buttonname{
+    margin-left: 130px;
+} */
